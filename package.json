@@ -1,0 +1,28 @@
+{
+  "name": "cnblogs_spider",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "async": "^2.1.4",
+    "cheerio": "^0.22.0",
+    "eventproxy": "^0.3.5",
+    "express": "^4.14.0",
+    "mongoose": "^4.6.8",
+    "superagent": "^3.0.0",
+    "superagent-charset": "^1.1.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiangqizheng/cnblogs_spider.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jiangqizheng/cnblogs_spider/issues"
+  },
+  "homepage": "https://github.com/jiangqizheng/cnblogs_spider#readme"
+}
